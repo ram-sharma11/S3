@@ -1,0 +1,17 @@
+To run this application 
+1. npm i 
+2. add .env file
+3. add  variables
+SERVER_PORT=3300
+MongoDB_URI= mongodb://127.0.0.1:27017/{dbname}
+APP_NAME=
+JWT_TOKEN_EXPIRY=
+JWT_SECRET=
+
+4. npm start
+
+5. create user
+6. login user
+7. create bucket
+8. upload file (try to upload from postman) 
+9. download file
